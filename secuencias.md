@@ -5,7 +5,7 @@ En las siguientes ligas se pueden encontrar los reportes de dichos análisis.
 ####Las secuencias crudas son las siguientes:
 [*Ferocactus pilosus*, R1](../T-TERRAZAS-890C-041215_R1_fastqc.html)
 
-[*Ferocactus pilosus*, R2](../Datos_crudos/file:///media/emilio/KINGSTON/Datos_crudos/T-TERRAZAS-890C-041215_R2_fastqc.html)
+[*Ferocactus pilosus*, R2](../T-TERRAZAS-890C-041215_R2_fastqc.html)
 
 Réplica uno de *Ariocarpus retusus*
 
